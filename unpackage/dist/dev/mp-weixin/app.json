@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/idol/idol",
+    "pages/member/member",
+    "pages/news/news",
+    "pages/goods/goods",
+    "pages/contact/contact",
+    "pages/pics/pics",
+    "pages/news-detail/news-detail",
+    "pages/goods-detail/goods-detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "洛阳白牡丹",
+    "navigationBarBackgroundColor": "#B22222",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#B22222",
+    "color": "#CCCCCC",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/home-fill.png"
+      },
+      {
+        "text": "资讯",
+        "pagePath": "pages/news/news",
+        "iconPath": "static/icon/all.png",
+        "selectedIconPath": "static/icon/all-fill.png"
+      },
+      {
+        "text": "爱豆",
+        "pagePath": "pages/idol/idol",
+        "iconPath": "static/icon/favorites.png",
+        "selectedIconPath": "static/icon/favorites-fill.png"
+      },
+      {
+        "text": "个人中心",
+        "pagePath": "pages/member/member",
+        "iconPath": "static/icon/account.png",
+        "selectedIconPath": "static/icon/account-fill.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap19.json"
+}
