@@ -8,3 +8,4 @@
 	1. 下载HBuilderX：(https://www.dcloud.io/hbuilderx.html)。
 	2. 安装微信开发者工具。
 	3. 项目直接在HBuilderX中就有工具栏“运行”到浏览器、小程序、手机等。
+	4. 最后上线的话是需要打包的，这里我没有进行打包的处理。
